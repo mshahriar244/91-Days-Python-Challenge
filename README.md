@@ -4,6 +4,7 @@ In this Challenge, We'll learn from the sketch. Consistency is the key to learni
 
 Why should we learn Python?
 Learning Python is valuable for several reasons:
+
 Versatility and Wide Application: Python is used in various fields such as web development, data analysis, machine learning, artificial intelligence, scientific computing, and more. Its versatility makes it a powerful tool for many applications.
 Ease of Learning and Use: Python has a simple and readable syntax, which makes it an excellent choice for beginners. Its user-friendly nature allows for a quicker learning curve compared to other programming languages.
 Rich Ecosystem and Libraries: Python has a vast ecosystem of libraries and frameworks, such as NumPy, Pandas, TensorFlow, and PyTorch, which are particularly useful in data science, machine learning, and scientific research.
